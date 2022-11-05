@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+Simula o calendário de jogos da Copa do Mundo 2022 que será no Catar 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://csssantos.github.io/nlw_calendario/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://vitorgaldino.github.io/NLW-Copa/).
 
 ## :memo: Licença
 
